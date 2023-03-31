@@ -1,2 +1,2 @@
-# guage-project
+# gauge-tests-project
 Learn gauge and taiko
